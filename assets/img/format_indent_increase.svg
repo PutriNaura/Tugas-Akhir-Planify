@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="format_indent_increase">
+<mask id="mask0_416_239" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<rect id="Bounding box" width="16" height="16" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_416_239)">
+<path id="format_indent_increase_2" d="M1.99951 13.9998V12.6664H13.9995V13.9998H1.99951ZM7.33285 11.3331V9.99976H13.9995V11.3331H7.33285ZM7.33285 8.66642V7.33309H13.9995V8.66642H7.33285ZM7.33285 5.99976V4.66642H13.9995V5.99976H7.33285ZM1.99951 3.33309V1.99976H13.9995V3.33309H1.99951ZM1.99951 10.6664V5.33309L4.66618 7.99976L1.99951 10.6664Z" fill="#1D1B20"/>
+</g>
+</g>
+</svg>
